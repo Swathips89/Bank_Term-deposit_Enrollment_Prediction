@@ -56,3 +56,8 @@ Social and economic context attributes
 Output variable (desired target):
 
     y - has the client subscribed a term deposit? (binary: 'yes', 'no')
+
+Accuracy Result:
+Logistic Regression - 87.9%
+XGBoost - 90.3%
+Random Forest- 89.93%
